@@ -23,11 +23,17 @@
 5. В main данные тестируются и выводятся на экран.
 ### Тестировани
 <img width="1454" height="629" alt="image" src="https://github.com/user-attachments/assets/c61ec937-e2f2-4bb5-a9fe-1f9bec8d8ad8" />
+
 <img width="1464" height="339" alt="image" src="https://github.com/user-attachments/assets/ce3aed19-a572-4356-84e0-ae719b0cd579" />
+
 <img width="1468" height="258" alt="image" src="https://github.com/user-attachments/assets/11862179-f7c7-4ed2-bcdf-5a1488c768ea" />
+
 <img width="1463" height="471" alt="image" src="https://github.com/user-attachments/assets/50ef720f-e480-450b-a93c-9687fff7671c" />
+
 <img width="1440" height="301" alt="image" src="https://github.com/user-attachments/assets/ce0292c2-0b90-4058-8c0f-ae29ed9adbec" />
+
 <img width="1443" height="217" alt="image" src="https://github.com/user-attachments/assets/ad3e4320-cac3-4e6a-af87-db4d922e1235" />
+
 <img width="1462" height="277" alt="image" src="https://github.com/user-attachments/assets/ebad34c3-0f1a-439b-a521-3e4c4e186528" />
 
 
